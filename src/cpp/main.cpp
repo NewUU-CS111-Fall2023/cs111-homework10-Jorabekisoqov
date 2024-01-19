@@ -7,6 +7,7 @@
  */
 
 #include <iostream>
+#include <list>
 #include "task_1.cpp"
 #include "task_2.cpp"
 #include "task_3.cpp"
@@ -17,7 +18,8 @@
 using namespace std;
 
 int main() {
-    // write your code here
+
+cout<<mergeNodes();
 
     return 0;
 }
